@@ -9,7 +9,7 @@ Provides encryptor and decryptor for AES-256 in GCM mode.
   <br>
     <div>
 Includes:<br> 
-  <ul style='decorator:none'>
+  <ul style='list-style-type: none;'>
 <li>**encryptor_AES-GCM-256.py**</li>
 <li>**secret.txt**   test text</li>
 <li>**secret.enc**   encrypted test text</li>
