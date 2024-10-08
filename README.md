@@ -1,7 +1,7 @@
 # Ciphers
 Cryptographic Tools
 <div>
-<h3>encryptor_AES-GCM-256.py</h3>
+<h3>cryptor_AES-GCM-256.py</h3>
   <div>
 Purpose:
 Provides encryptor and decryptor for AES-256 in GCM mode.
