@@ -6,6 +6,7 @@ Cryptographic Tools
 Purpose:
 Provides encryptor and decryptor for AES-256 in GCM mode.
   </div>
+  <br>
     <div>
 Includes:<br> 
   <ul>
