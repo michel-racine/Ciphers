@@ -6,8 +6,8 @@ encryptor_AES-GCM-256.py
 ------------------------
 Purpose:
 Provides encryptor and decryptor for AES-256 in GCM mode.
-
-Includes: 
+<br>
+Includes:<br> 
 encryptor_AES-GCM-256.py
 secret.txt   test text
 secret.enc   encrypted test text
